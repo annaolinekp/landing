@@ -1,0 +1,55 @@
+/* Fonts */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:300,400,500,700");
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/buttons.css");
+@import url("components/cards.css");
+@import url("components/container.css");
+@import url("components/list.css");
+
+
+/* Utilities */
+body {
+  margin: 0;
+}
+
+h1 {
+  color: #fcf9ed;
+  font-family: 'Staatliches';
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 20px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.7);
+}
+
+h2 {
+  color: #fcf9ed;
+  font-family: 'Staatliches';
+  font-size: 30px;
+  line-height: 18px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.7);
+}
+
+p {
+  color: #fcf9ed;
+  font-family: 'Staatliches';
+  font-size: 25px;
+  font-weight: bolder;
+  line-height: 18px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.7);
+}
+
+a {
+  color: #fcf9ed;
+  text-decoration: none;
+  font-size: 32px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.7);
+}
+
+a:hover {
+  color: #bbbbbb;
+}
+
+/* Custom design below! */
+
